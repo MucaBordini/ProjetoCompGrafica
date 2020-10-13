@@ -27,5 +27,5 @@ gratuita o asset da casa utilizada:
 https://assetstore.unity.com/packages/3d/environments/urban/furnished-cabin-71426
 
 Link do repositório:
-https://github.com/MucaBordini/ProjetoCompGrafica'
+https://github.com/MucaBordini/ProjetoCompGrafica
 
