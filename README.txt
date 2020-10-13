@@ -1,5 +1,5 @@
 Alunos:
-Julio Cesário de Paiva Leão - RA:
+Julio Cesário de Paiva Leão - RA: 1916033
 Samuel Bordini Bolsanello - RA: 1914405
 
 Descrição: 
@@ -17,4 +17,4 @@ ou com as setas do teclado.
     A tecla 'ESC' do teclado serve para sair do jogo na tela final.
 
 Link do repositório:
-    
+
